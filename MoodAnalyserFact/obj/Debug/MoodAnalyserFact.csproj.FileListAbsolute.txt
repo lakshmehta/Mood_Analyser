@@ -1,0 +1,7 @@
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\obj\Debug\MoodAnalyserFact.csprojAssemblyReference.cache
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\obj\Debug\MoodAnalyserFact.csproj.CoreCompileInputs.cache
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\bin\Debug\MoodAnalyserFact.exe.config
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\bin\Debug\MoodAnalyserFact.exe
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\bin\Debug\MoodAnalyserFact.pdb
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\obj\Debug\MoodAnalyserFact.exe
+C:\Users\laksh\source\repos\MoodAnalyserFact\MoodAnalyserFact\obj\Debug\MoodAnalyserFact.pdb
